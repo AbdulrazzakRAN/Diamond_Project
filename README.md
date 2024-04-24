@@ -6,4 +6,4 @@ In this project the models that have been used are
 * Decision Tree 
 * Random Forest. 
 
-After training the models and applying them on test data we noticed that Random Forest is the best regressor with the least ** RMSE **.
+After training the models and applying them on test data we noticed that Random Forest is the best regressor with the least RMSE.
